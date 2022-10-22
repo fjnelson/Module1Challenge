@@ -15,7 +15,7 @@ N/A
 
 ## Usage
 
-N/A
+img src="./assets/images/01-html-css-git-homework-demo.png"
 
 ## Credits
 
