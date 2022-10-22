@@ -23,4 +23,4 @@ Starter code from: https://github.com/coding-boot-camp/urban-octo-telegram
 
 ## License
 
-Will need to add a license
+Please refer to the LICENSE in the repo.
