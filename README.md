@@ -11,7 +11,7 @@ N/A
 
 ## Installation
 
-N/A
+Github pages hosting: https://fjnelson.github.io/Module1Challenge/
 
 ## Usage
 
