@@ -13,12 +13,12 @@ img {
     max-height: 100%;
     max-width: auto;
 }
-/*comment*/
+/*color*/
 a {
     color: #ffffff;
     text-decoration: none;
 }
-/*comment*/
+/*font*/
 p {
     font-size: 16px;
 }
@@ -55,28 +55,28 @@ p {
     display: inline-block;
     margin-left: 25px;
 }
-/*comment*/
+/*picture properties*/
 .hero {
     height: 820px;
     margin-bottom: 25px;
 }
-/*comment*/
+/*picture properties*/
 .float-left {
     float: left;
     margin-right: 25px;
 }
-/*comment*/
+/*picture properties*/
 .float-right {
     float: right;
     margin-left: 25px;
 }
-/*comment*/
+/*content formatting*/
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
-/*comment*/
+/*content formatting*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -87,17 +87,17 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-/*comment*/
+/*picture properties*/
 .benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
 }
-/*comment*/
+/*picture properties*/
 .benefit-brand {
     margin-bottom: 32px;
     color: #ffffff;
 }
-/*comment*/
+/*picture properties*/
 .benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
