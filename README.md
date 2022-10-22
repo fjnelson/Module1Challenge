@@ -15,7 +15,7 @@ N/A
 
 ## Usage
 
-![alt text](https://github.com/fjnelson/Module1Challenge/blob/main/Develop/assets/images/01-html-css-git-homework-demo.png)
+![alt text](https://github.com/fjnelson/Module1Challenge/blob/main/assets/images/01-html-css-git-homework-demo.png)
 
 ## Credits
 
