@@ -2,7 +2,7 @@
 
 ## Description
 
-Bootcamp: Module 1 Challenge
+Bootcamp: Module 1 Challenge <br />
 Codebase correction that follows accessibility standards so that the site is optimized for search engines
 
 ## Table of Contents (Optional)
