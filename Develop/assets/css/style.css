@@ -13,6 +13,15 @@ img {
     max-height: 100%;
     max-width: auto;
 }
+/*comment*/
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+/*comment*/
+p {
+    font-size: 16px;
+}
 /*header font*/
 .header {
     padding: 20px;
@@ -45,15 +54,6 @@ img {
 .header div ul li {
     display: inline-block;
     margin-left: 25px;
-}
-/*comment*/
-a {
-    color: #ffffff;
-    text-decoration: none;
-}
-/*comment*/
-p {
-    font-size: 16px;
 }
 /*comment*/
 .hero {
@@ -144,13 +144,6 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-/*comment
-.digital-marketing {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-} */
-
 /*online reputation box*/
 .online-reputation-management {
     margin-bottom: 20px;
